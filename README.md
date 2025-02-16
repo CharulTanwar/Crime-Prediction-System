@@ -9,6 +9,9 @@ Crime prediction project leverages data analysis and machine learning techniques
 
 By studying past crime data like the type of crime, location, and time, we can create models to find patterns and trends in criminal behavior. These models help police and policymakers use resources better, focus on preventing crime, and keep communities safer. Using data and predictions, crime prevention projects aim to reduce crime and make communities healthier and safer.
 
+With the help of machine learning algorithm, using python as core we can predict the type of crime which will occur in a particular area with crime perception. The objective would be to train a model for prediction. The training would be done using Training data set which will be validated using the test dataset.
+
+
 ![Bigstock_146860376](https://github.com/CharulTanwar/Crime-Prediction-System/assets/166132694/c3207a9a-5f57-4c0a-9774-f3ed39812bd9)
 
 
