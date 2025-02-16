@@ -22,3 +22,4 @@ By studying past crime data like the type of crime, location, and time, we can c
 
 ![Image](https://github.com/user-attachments/assets/3572aec9-7c27-48d0-b38a-080d9215b82c)
 
+"I have detailed all procedures in the provided Jupyter Notebook."
